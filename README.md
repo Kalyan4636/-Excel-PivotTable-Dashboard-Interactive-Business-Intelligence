@@ -232,6 +232,16 @@ Excel-PivotTable-Interactive-Dashboard/
 
 I help aspiring Data Analysts and working professionals develop practical skills in Excel, SQL, Power BI, Python, dashboard development, and real-world business analytics.
 
+- **LinkedIn:** [https://www.linkedin.com/in/adityaakalyan/](https://www.linkedin.com/in/adityaakalyan/)
+- **GitHub:** [https://github.com/Kalyan4636](https://github.com/Kalyan4636)
+- **Portfolio:** [https://www.datascienceportfol.io/adityakalyanbscc](https://www.datascienceportfol.io/adityakalyanbscc)
+
+---
+
+⭐ If you find this project useful, please star the repository and share it with other aspiring Data Analysts.
+
+**Created by Aditya Kalyan | Data Analytics Trainer & Educator**
+
 
 
 ## ⭐ Support This Project
